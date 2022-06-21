@@ -8,6 +8,7 @@
 
 
     <EditText
+        android:hint="Enter a Name"
         android:id="@+id/editTextTextMultiLine"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
